@@ -1,2 +1,2 @@
 # bloon
-A *very* basic IOCTL driver for memory reads.
+A *very* basic IOCTL driver to read user-mode memory.
